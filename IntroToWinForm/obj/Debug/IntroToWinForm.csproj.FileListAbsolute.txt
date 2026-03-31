@@ -1,0 +1,10 @@
+C:\Users\tdjac\source\repos\IntroToWinForm\bin\Debug\IntroToWinForm.exe.config
+C:\Users\tdjac\source\repos\IntroToWinForm\bin\Debug\IntroToWinForm.exe
+C:\Users\tdjac\source\repos\IntroToWinForm\bin\Debug\IntroToWinForm.pdb
+C:\Users\tdjac\source\repos\IntroToWinForm\obj\Debug\IntroToWinForm.csproj.AssemblyReference.cache
+C:\Users\tdjac\source\repos\IntroToWinForm\obj\Debug\IntroToWinForm.Form1.resources
+C:\Users\tdjac\source\repos\IntroToWinForm\obj\Debug\IntroToWinForm.Properties.Resources.resources
+C:\Users\tdjac\source\repos\IntroToWinForm\obj\Debug\IntroToWinForm.csproj.GenerateResource.cache
+C:\Users\tdjac\source\repos\IntroToWinForm\obj\Debug\IntroToWinForm.csproj.CoreCompileInputs.cache
+C:\Users\tdjac\source\repos\IntroToWinForm\obj\Debug\IntroToWinForm.exe
+C:\Users\tdjac\source\repos\IntroToWinForm\obj\Debug\IntroToWinForm.pdb
